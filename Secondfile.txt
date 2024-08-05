@@ -1,0 +1,7 @@
+This is a Second file 
+git commands
+
+git clone url
+
+open a folder in cmd by this command
+cd foldername
